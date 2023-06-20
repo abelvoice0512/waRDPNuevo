@@ -1,0 +1,1136 @@
+/*
+#cmb-maquina option {
+	background-color: #2b3035;
+    color: #80868e;
+}
+*/
+
+/* inicio - estilos light */
+#txt-saldo-inicial {
+ color: #434A54;
+}
+
+#txt-material {
+    color: #434A54;
+}
+
+#cmb-tipo-kardex {
+    color: #434A54;
+    margin-right: 12px;
+}
+
+#cmb-maquina {
+    color: #434A54;
+    margin-right: 12px;
+}
+
+
+#cmb-proceso {
+    margin-right: 12px;
+}
+
+#cmb-proceso2 {
+    margin-right: 12px;
+}
+
+.modal-content {
+    
+}
+
+.modal-title {
+    color: #434A54;
+}
+
+.contenedor-tipos-graficos-simple i {
+    cursor: pointer;
+    color: #434A54;
+}
+
+.contenedor-tipos-graficos-sumarizado i {
+    cursor: pointer;
+    color: #434A54;
+}
+
+.contenedor-tipos-graficos-energia-simple i {
+    cursor: pointer;
+    color: #434A54;
+}
+
+
+button.close span {
+    color: #434A54;
+}
+
+/* fin - estilos light */
+
+
+
+/* inicio - estilos dark */
+.dark-mode #txt-saldo-inicial {
+    color: #c8cfd6;
+}
+
+.dark-mode #txt-material {
+    color: #c8cfd6;
+}
+
+.dark-mode #cmb-tipo-kardex {
+    color: #c8cfd6;
+}
+
+.dark-mode #cmb-tipo-kardex option {
+    background-color: #2b3035;
+    color: #80868e;    
+}
+
+.dark-mode #cmb-maquina {
+    color: #c8cfd6;
+}
+
+.dark-mode #cmb-maquina option {
+    background-color: #2b3035;
+    color: #80868e;    
+}
+
+.dark-mode #cmb-proceso {
+    color: #c8cfd6;
+}
+
+.dark-mode #cmb-proceso option {
+    background-color: #2b3035;
+    color: #80868e;    
+}
+
+.dark-mode #cmb-proceso2 {
+    color: #c8cfd6;
+}
+
+.dark-mode #cmb-proceso2 option {
+    background-color: #2b3035;
+    color: #80868e;    
+}
+
+.dark-mode #cmb-producto {
+    color: #c8cfd6;
+}
+
+.dark-mode #cmb-producto option {
+    background-color: #2b3035;
+    color: #80868e;    
+}
+
+.dark-mode #cmb-material {
+    color: #c8cfd6;
+}
+
+.dark-mode #cmb-material option {
+    background-color: #2b3035;
+    color: #80868e;    
+}
+
+.dark-mode #cmb-circuito {
+    color: #c8cfd6;
+}
+
+.dark-mode #cmb-circuito option {
+    background-color: #2b3035;
+    color: #80868e;    
+}
+
+.dark-mode #dtp-fecha-ini {
+    color: #c8cfd6;   
+}
+
+.dark-mode #dtp-fecha-fin {
+    color: #c8cfd6;   
+}
+
+.dark-mode #dtp-mes {
+    color: #c8cfd6;   
+}
+
+.dark-mode .modal-content {
+    /*background-color: #6d6d6d;*/
+    background-color: #2c3237;
+    
+}
+
+.dark-mode .modal-title {
+    color: #cccec7;
+}
+
+.dark-mode .contenedor-tipos-graficos-simple i {
+    cursor: pointer;
+    color: #cccec7;
+}
+
+.dark-mode .contenedor-tipos-graficos-sumarizado i {
+    cursor: pointer;
+    color: #cccec7;
+}
+
+.dark-mode button.close span {
+    color: white;
+}
+
+.dark-mode .contenedor-botones-productividad i {
+    color: #007bff;
+}
+
+.dark-mode .contenedor-tipos-graficos-energia-simple i {
+    cursor: pointer;
+    color: #cccec7;
+}
+
+.dark-mode .contenedor-tipos-graficos-energia-sumarizado i {
+     cursor: pointer;
+    color: #cccec7;
+}
+
+.dark-mode #cmb-producto option {
+    background-color: #2b3035;
+    color: #80868e;    
+}
+
+.dark-mode #cmb-producto {
+    color: #c8cfd6;
+}
+
+.dark-mode #cuerpo-tabla-fechas a.active {    
+    color: #c8cfd6;
+}
+
+#cuerpo-tabla-fechas a:not(.active) {
+    color: initial;
+}
+
+
+.dark-mode .arbol-nivel-1 {
+    background-color: #272c31 !important;
+}
+
+.dark-mode .arbol-nivel-2 {
+    background-color: #2b3035 !important;
+}
+
+.dark-mode .arbol-nivel-3 {
+    background-color: #31373d !important;
+}
+
+.dark-mode .arbol-nivel-4 {
+    background-color: #393f45 !important;
+}
+
+.dark-mode .arbol-nivel-5 {
+    background-color: #41474c !important;
+}
+
+
+
+.dark-mode .modal-content table {
+    background-color: initial;
+    /*background-color: #2d2d2e;*/
+    color: #c8cfd6;        
+}
+
+.dark-mode .campo-invalido {
+    border-color: #dc3545 !important;
+}
+
+.dark-mode .campo-invalido:focus {
+    border-color: #343a40 !important;
+}
+
+.dark-mode #cmb-system-id option {
+    background-color: #2b3035;
+    color: #80868e;
+}
+
+/* fin - estilos dark */
+
+
+
+
+.campo-invalido {
+    border-color: #dc3545 !important;
+}
+
+.campo-invalido:focus {
+    border-color: #80bdff !important;
+}
+
+.page-header .input-group {
+	margin-right: 8px;
+}
+
+::-webkit-calendar-picker-indicator {
+    filter: invert(0.7);
+}
+
+#fecha-reporte2 {
+	color: #c8cfd6;
+}
+
+#fecha-reporte {
+    color: #c8cfd6;
+}
+
+.valor-dia {
+	font-size: 20px;
+}
+
+.paradas-por-tipo span {
+	display: inline-block;
+    font-size: 13px;
+    white-space: nowrap;
+}
+
+
+
+.modal-subtitulo {
+    color: #cccec7 !important;
+}
+.modal-subtitulo {
+    color: rgb(102, 102, 102);
+    display: inline;
+    fill: rgb(102, 102, 102);
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    display: block;
+}
+
+.modal-content table {
+    background-color: initial;
+    /*background-color: #2d2d2e;*/    
+    color: #434a54;
+    
+}
+
+.modal-content .table th {
+    /*background-color: #2d2d2e;*/
+    background-color: initial;
+}
+
+.modal-content table th{
+    font-size: 12px;
+}
+
+.modal-content table td{
+    font-size: 12px;
+}
+
+.modal-content table tbody tr:nth-of-type(odd) {
+    background-color: rgba(255,255,255,.05) !important;
+}
+
+.subtitulo-contenedor {
+	display: block;
+}
+
+.chart-rendimiento.show {
+    display: block;
+}
+
+.chart-rendimiento {
+    display: none;
+}
+
+.chart-rendimiento-sumarizado.show {
+    display: block;
+}
+
+.chart-rendimiento-sumarizado {
+    display: none;
+}
+
+.chart-energia-sumarizado.show {
+    display: block;
+}
+
+.chart-energia-sumarizado {
+    display: none;
+}
+
+
+.contenedo.chart-rendimiento-sumarizado.show {
+    display: block;
+}
+
+.chart-rendimiento-sumarizado {
+    display: none;
+}r-tipos-graficos-simple { 
+    margin-top: 10px;
+    color: #666666;
+}
+
+.contenedor-tipos-graficos-sumarizado { 
+    margin-top: 10px;
+    color: #666666;
+}
+
+
+
+
+.spark {
+    cursor: pointer;
+}
+
+#tabla-produccion-productos td, #tabla-produccion-productos th {    
+    font-size: 12px;
+    padding: .40rem;
+}
+
+.subtitulo-contenedor-rango {
+    display: inline-block;
+}
+
+#tabla-produccion-productos-sumarizado td, #tabla-produccion-productos-sumarizado th {
+     font-size: 12px;
+    padding: .40rem;
+}
+
+#tabla-energia-produccion-productos td, #tabla-energia-produccion-productos th {    
+    font-size: 12px;
+    padding: .40rem;
+}
+
+#tabla-energia-produccion-productos-sumarizado td, #tabla-energia-produccion-productos-sumarizado th {
+     font-size: 12px;
+    padding: .40rem;
+}
+
+
+.spark canvas {
+    max-width: 105px;
+}
+
+.contenedor-botones-sumarizado {
+    display: inline-block;
+    float: right;
+}
+
+.modal {
+    color: #cccec7;
+}
+
+.modal .form-control {
+    border-color: #51565a;
+    color: #cccec7;
+}
+
+.modal .input-group {
+    margin-bottom: 3px;
+}
+
+.contenedor-botones-modal {
+    display: block;
+    margin-top: 10px;
+}
+
+.ribbon .ribbon-box.obj-gris {
+    background-color: #909090;
+}
+
+.ribbon .ribbon-box.obj-verde {
+    background-color: green;
+}
+
+.ribbon .ribbon-box.obj-rojo {
+    background-color: red;
+}
+
+.ribbon .ribbon-box.obj-gris:before {
+    border-color: #909090;
+    border-right-color: transparent;
+}
+
+.ribbon .ribbon-box.obj-verde:before {
+    border-color: green;
+    border-right-color: transparent;
+}
+
+.ribbon .ribbon-box.obj-rojo:before {
+    border-color: red;
+    border-right-color: transparent;
+}
+
+.card-header {
+    padding: 7px 20px;
+}
+
+.card-body {
+    padding: 7px 20px;    
+}
+
+.contenedor-botones-productividad {
+    position: absolute;
+    right: 32px;
+    z-index: 1;
+    top: -7px;
+}
+
+.contenedor-botones-productividad i {
+    cursor: pointer;
+}
+
+.chart-rendimiento-energia.show {
+    display: block;
+}
+
+.chart-rendimiento-energia {
+    display: none;
+}
+
+.contenedor-tipos-graficos-energia-simple { 
+    margin-top: 10px;
+    color: #666666;
+}
+
+.contenedor-tipos-graficos-energia-sumarizado { 
+    margin-top: 10px;
+    color: #666666;
+}
+
+#oModalCuaderno .modal-dialog {
+    margin-top: 60px;
+}
+
+#chart_spectrum {
+    cursor: pointer;
+}
+
+.contenedor-tabs-calidad {
+    padding-right: 1px;
+}
+
+#tabs-calidad a.active {
+    background-color: #676767;
+    color: #c8cfd6;;
+}
+
+#tabs-calidad .nav-link {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+#tabs-calidad a {
+    color: #80868e;
+    /*color: #212529;*/
+}
+
+.contenedor-panels-calidad {
+    padding-left: 5px;
+}
+
+#ficha_calidad .table .thead-dark th {
+    background-color: #3a3d3b;
+}
+
+.calidad-tonelaje {
+    font-size: 14px;
+    font-style: italic;
+}
+
+.spark-calidad {
+    cursor: pointer;
+}
+
+.tabla-calidad .manejo-columnas {
+    cursor: pointer;
+}
+
+.tabla-calidad td, .tabla-calidad th {
+    font-size: 12px;
+    padding: .40rem;
+}
+
+#tabs-calidad .selector-tab {
+    float: right;
+}
+
+#tabs-calidad .nav-link {
+    display: inline-block;
+}
+
+.input-color-picker {
+    display: none;
+}
+
+.span-color-picker {
+    margin: auto;
+}
+
+.span-color-picker span {
+    border: 0;
+    outline-width: 0;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+#modal-mensaje .modal-footer {
+    border: 0;
+}
+
+#modal-eliminar-dato .modal-footer {
+    border: 0;
+}
+
+.boton-inactivo {
+    pointer-events: none;
+}
+
+#tabla-valores .spinner-border {
+    width: 1.2rem;
+    height: 1.2rem;
+}
+
+.etiqueta-control {
+    align-self: center;
+    margin-right: 5px;
+}
+
+#btn-buscar {
+    max-width: 50px;
+}
+
+#cuerpo-tabla-fechas .fa-caret-right {
+    float: right;
+}
+
+
+
+#cuerpo-tabla-fechas a:not(.active) {
+    color: #9aa0ac;
+}
+
+.alerta {
+    color:#dc3545;
+    font-weight: bold;
+}
+
+tr.active {
+    background-color: #676767 !important;
+}
+
+.fecha-nueva.active input{
+    color: #c8cfd6;
+    border-color: #9a9c9e;
+}
+
+#cuerpo-tabla-fechas a.active {    
+    color: #ffffff;
+}
+
+.nuevo-item-control {
+    align-self: center;
+    margin-left: 4px;
+}
+
+#modal-mensaje {
+    z-index: 2000;
+}
+
+.paradas-flecha-izq {
+    position: absolute;
+    top: 43px;
+    left: 15px;
+    font-size: 25px !important;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.paradas-flecha-der {
+    position: absolute;
+    top: 43px;
+    right: 15px;
+    font-size: 25px !important;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.tabla-maquina-indicadores td{
+    padding: 1px 6px;
+}
+
+.tabla-maquina-indicadores {
+    margin-bottom: 15px;
+}
+
+#contenedor-procesos-maquinas h5 {
+    color: #c8cfd6;
+    display: inline;
+}
+
+
+.ver-dashboard {
+    display: inline;
+    position: absolute;
+    right: 21px;
+    top: 14px;
+    cursor: pointer;
+}
+
+#cuerpo-tabla-procesos .fa-circle {
+    margin-right: 5px;
+    float: right;
+}
+
+#tabla-procesos th.maquina-indicador:hover {
+    text-decoration: underline;
+}
+
+#tabla-procesos th.maquina-indicador {
+    cursor: pointer;
+}
+
+#cuerpo-tabla-procesos .spark {
+    cursor: initial;
+}
+
+.td-ver-dashboard {
+    cursor: pointer;
+}
+
+.td-ver-dashboard:hover {
+    text-decoration: underline;
+}
+
+#cuerpo-tabla-procesos .spark {
+    cursor: pointer;
+}
+
+#tabla-procesos .fa-circle {
+    cursor: pointer;
+}
+
+#chk-ocultar-maquinas span:first-child {
+    font-size: 14px; 
+    font-weight: initial;
+}
+
+#chk-ocultar-maquinas2 span:first-child {
+    font-size: 14px; 
+    font-weight: initial;
+}
+
+#tabla-procesos td, #tabla-procesos th {
+    font-size: 14px; 
+}
+
+.tabla-arbol .principal {
+    cursor: pointer;
+}
+
+.contenedor-botones-arbol-paradas {
+    display: inline-block;
+    float: right;
+}
+
+.table tbody+tbody {
+    border-top: initial;
+}
+
+/*
+.arbol-nivel-1 {
+    background-color: #272c31 !important;
+}
+
+.arbol-nivel-2 {
+    background-color: #2b3035 !important;
+}
+
+.arbol-nivel-3 {
+    background-color: #31373d !important;
+}
+
+.arbol-nivel-4 {
+    background-color: #393f45 !important;
+}
+*/
+#tabla-arbol-paradas th, #tabla-arbol-paradas td {
+    border-color: #4e5052;
+}
+
+#tabla-arbol-paradas2 th, #tabla-arbol-paradas2 td {
+    border-color: #4e5052;
+}
+
+#tabla-arbol-paradas2-detalle th, #tabla-arbol-paradas2-detalle td {
+    border-color: #4e5052;
+}
+
+.tabla-arbol .fecha-arbol {
+    cursor: pointer;
+}
+
+.tabla-arbol .codigo-parada-arbol {
+    cursor: pointer;
+}
+
+.arbol-nivel-2 .fa-caret-left {
+    padding: 3px;
+}
+
+#lbl-mensaje-tabla-arbol-paradas2-detalle {
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+}
+
+#padre-contenedor-tabla-arbol-paradas2-detalle {
+    margin-top: -11px; 
+}
+
+.codigo-parada-arbol i {
+    margin-right: 4px;
+}
+
+#mensaje-calidad {
+    padding: 5px 0 20px 0;
+}
+
+.principal .fa-square {
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.contenedor-botones-arbol-paradas img {
+    width: 30px;
+}
+
+.subtitulo-contenedor, .subtitulo-contenedor-rango {
+    height: 35px;
+}
+
+#cuerpo-tabla-produccion-productos-sumarizado .fa-table {
+    cursor: pointer;
+}
+
+.modal-header {
+    border-bottom: 1px solid #5b5c59;
+}
+
+body *::-webkit-scrollbar {
+    width: 5px;
+}
+
+#contenedor-tabla-produccion-productos-detalle {
+    height: 400px;
+}
+
+.botones-tabla {
+    margin-right: 5px;
+    margin-bottom: 4px;
+}
+
+.botones-tabla i {
+    cursor:pointer;
+}
+
+
+#cuerpo-tabla-energia-produccion-productos-sumarizado .fa-table {
+    cursor: pointer;
+}
+
+#contenedor-tabla-energia-produccion-productos-detalle {
+    height: 400px;
+}
+
+
+/* receta default */
+.custom-control-label {
+    margin-right: 10px;
+    padding-left: 5px;
+}
+
+.custom-control-label::after {    
+    left: -1.5rem;    
+    width: 1.5rem;
+    height: 1.5rem;
+    
+}
+
+.custom-control-label::before {    
+    left: -1.5rem;    
+    width: 1.5rem;
+    height: 1.5rem;
+    
+}
+
+.custom-controls-stacked .custom-control {
+    margin-bottom: .5rem;
+}
+
+.col-form-label {
+    margin-right: 6px;
+}
+
+.modal-title {
+    font-size: 14px;
+}
+
+.close {
+    font-size: 14px;
+}
+
+.btn-ver-historial {
+    cursor: pointer;
+}
+
+.modal-footer {
+    border-top: 0;
+}
+
+.card-historial-producto {
+    margin-bottom: 5px;
+}
+
+.receta-personalizada .fc-scroller.fc-day-grid-container {
+    height: auto !important;
+}
+
+.receta-personalizada .fc-view-container .fc-event {
+    font-size: 10px !important;
+    padding: 0 5px !important;
+}
+
+.receta-personalizada tr:first-child>td>.fc-day-grid-event {
+    margin-top: 0;
+}
+
+.receta-personalizada .fc-month-button {
+    display: none;
+}
+
+.receta-personalizada .fc-agendaWeek-button {
+    display: none;
+}
+
+.receta-personalizada .fc-agendaDay-button {
+    display: none;
+}
+
+.chip {
+    padding: 5px 10px;
+    font-size: 14px;
+    height: 2.9rem;    
+}
+
+.personalizar-receta {
+    cursor: pointer;
+}
+
+.contenedor-mensajes {
+    height: 350px;
+    overflow-y: scroll;
+}
+
+.contenedor-envio {
+    display: inline-flex;
+}
+
+.contenedor-envio input {
+    margin-right: 2px;
+}
+
+.contenedor-envio .btn {
+    width: 45px;
+    margin-left: 4px;
+}
+
+.file-upload {
+    margin: 0;
+    padding: 0;
+    width: 0;
+    height: 0;
+    outline: none;
+    opacity: 0;
+}
+
+.mensaje-copia {
+    align-self: center;
+    margin-left: 17px;
+}
+
+#spin-tabla-arbol-rdp {
+    margin-bottom: 30px;
+}
+
+.contenedor-mensajes .accion {
+
+    cursor: pointer;
+}
+
+.contenedor-mensajes .cancelar-comentario {
+    margin-left: 8px;
+    margin-top: 8px;
+    position: absolute;
+    right: 44px;
+}
+
+.contenedor-comentario {
+    display: grid;
+}
+
+.contenedor-mensajes .aceptar-comentario {
+    margin-left: 4px;
+    margin-top: 8px;
+}
+
+.contenedor-mensajes input {
+    font-size: 13px;
+    padding-right: 33px;
+}
+
+.contenedor-mensajes .mensaje {
+    display: inline-flex;
+}
+
+.tabla-materiales-sap {
+    border-width: 0;
+    border-style: hidden;    
+}
+
+.contenedor-filtros {
+    margin: 10px 0 20px 0;    
+}
+
+.page-notificacion #tabla-arbol-rdp td{
+    white-space: break-spaces;    
+}
+
+.page-notificacion td.transferencia {
+    white-space: initial !important;    
+}
+
+.page-notificacion td.transferencia i{
+    cursor: pointer;
+    margin-left: 6px;
+}
+
+.page-notificacion td.estado{
+    white-space: initial !important; 
+    cursor: pointer;
+}
+
+.page-notificacion td.estado .fa-check-double{    
+    color:  #25f0de;
+
+}
+
+.page-notificacion td.estado .fa-exclamation-triangle{    
+    color:  #ff6060;
+}
+
+.page-notificacion td.estado .fa-clock{    
+    color:  #d2d1be;
+}
+
+.page-notificacion td.estado .fa-times-circle{    
+    color:  #ffef5f;
+    font-size: 14px;
+}
+
+.page-notificacion .table td, .table th {
+    font-size: 13px;
+}
+
+.page-notificacion .COD_MATERIAL_SAP {
+    font-size: 12px !important;
+}
+
+.page-notificacion .DSC_MATERIAL_SAP, 
+.page-notificacion .CNT_HORAS, 
+.page-notificacion .CNT_TONELADAS, 
+.page-notificacion .CNT_TONELADASNOTIF, 
+.page-notificacion .transferencia,
+.page-notificacion .SUMA_TRANSFERENCIA {
+    font-size: 12px !important;
+}
+
+.arbol-nivel-4 .CNT_TONELADASNOTIF {
+    cursor: pointer;
+}
+
+.fila-material .CNT_TONELADASNOTIF {
+    cursor: pointer;
+}
+
+.mensaje-invalido {    
+    width: 100%;
+    margin-top: .25rem;
+    font-size: .875em;
+    color: #dc3545;
+}
+
+.transf-en-progreso {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+#btn-transferir .spinner-border {
+     width: 1.6rem;
+    height: 1.6rem;
+}
+
+.transf-transferido.modificado {
+    color: #ffce3c !important;
+}
+
+#msj-notas {
+    color: #ffce3c;
+}
+
+#mensaje-notificacion2, #mensaje-notificacion {
+    color: #ff6060;
+}
+
+
+#btn-aceptar-modal-transferir2 .spinner-border{
+    width: 1.6rem;
+    height: 1.6rem;
+}
+
+.transf-transferido.modificado_por_usuario {
+    color: #ffce3c !important;
+}
+
+#txt-saldo-inicial {
+    text-align: right;
+}
+
+#admin-Dashboard .contenedor-resultados .card-body {
+    padding: 0;
+}
+
+.tabla-resumen tbody td {
+    background-color: #2b3035 !important;
+}
+
+.tabla-sub-resumen  thead th {
+    background-color: #2c3237 !important;
+}
+
+#modal-resumen {
+    /*margin-top: 70px    ;*/
+}
+
+#modal-resumen .modal-body {
+    overflow: scroll;
+    height: 550px;
+}
+
+.seleccionar-producto {
+    vertical-align: middle;
+}
+
+.estado i {
+    vertical-align: middle;
+}
+
